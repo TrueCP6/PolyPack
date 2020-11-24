@@ -47,7 +47,7 @@
 #Glowballs can be thrown to produce a light source where they impact.
 "Glowballs Enabled" = false
 #Gold variant of vanilla iron bars.
-"GoldBars Enabled" = true
+"GoldBars Enabled" = false
 #Gold version of the vanilla chain.
 "GoldChains Enabled" = false
 #Gold version of the vanilla lanterns.
