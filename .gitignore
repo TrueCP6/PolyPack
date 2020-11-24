@@ -1,0 +1,10 @@
+server/*
+!initial-setup.bat
+!server.properties
+!eula.txt
+!start.bat
+
+!server/config/
+server/config/*
+!charm.toml
+!automated_crafting.json
