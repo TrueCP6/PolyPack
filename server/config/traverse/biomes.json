@@ -51,13 +51,13 @@
     },
     "meadow": {
       "weight": 0.9,
-      "enable": true
+      "enable": false
     }
   },
   "variants": {
     "lush_swamp": {
       "chance": 0.2,
-      "enable": false
+      "enable": true
     },
     "wooded_island": {
       "chance": 0.1,
@@ -69,7 +69,7 @@
     },
     "meadow": {
       "chance": 0.2,
-      "enable": false
+      "enable": true
     }
   }
 }
