@@ -29,6 +29,7 @@ curl https://media.forgecdn.net/files/3060/240/staffofbuilding-1.2.3-1.16.2.jar 
 curl https://media.forgecdn.net/files/3075/427/blast-1.4.jar -O
 curl https://media.forgecdn.net/files/3038/575/lapisreserve-1.0.6.jar -O
 curl https://media.forgecdn.net/files/3049/515/flesh2leather-1.0.1.jar -O
+curl https://media.forgecdn.net/files/3063/794/overworld-two-1.0.3.jar -O
 curl https://media.forgecdn.net/files/3111/46/charm-fabric-1.16.4-2.1.1-hotfix1.jar -O
 curl https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%%2B1.16.4-fabric.jar -O
 curl https://media.forgecdn.net/files/2983/652/fatxporbs-0.0.7%%2B1.16-rc1.jar -O
