@@ -38,4 +38,5 @@ curl https://media.forgecdn.net/files/3110/882/crookedcrooks-1.3.2%%2B1.16.4.jar
 curl https://media.forgecdn.net/files/2987/621/phosphor-fabric-mc1.16.1-0.6.0%%2Bbuild.7.jar -O
 curl https://media.forgecdn.net/files/3101/401/automated-crafting-1.3.13%%2BMC1.16.2-1.16.4.jar -O
 curl https://media.forgecdn.net/files/3121/541/traverse-3.0.3%%2Bbuild.13.jar -O
+curl https://media.forgecdn.net/files/3109/915/terrestria-2.1.5%%2Bbuild.28.jar -O
 cd ..

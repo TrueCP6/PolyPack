@@ -12,3 +12,7 @@ server/config/*
 !server/config/traverse/
 server/config/traverse/*
 !biomes.json
+
+!server/config/terrestria/
+server/config/terrestria/*
+!biomes.json
