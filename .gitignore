@@ -1,8 +1,10 @@
 server/*
 !initial-setup.bat
+!initial-setup.sh
 !server.properties
 !eula.txt
 !start.bat
+!start.sh
 
 !server/config/
 server/config/*
