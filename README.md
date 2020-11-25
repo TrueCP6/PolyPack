@@ -26,7 +26,7 @@ As PolyMc adds more features this modpack will continue to expand with new conte
 
 ## New Tools And Weapons
 ![](https://i.imgur.com/kiLRLmP.png)
-![](https://media.forgecdn.net/attachments/317/824/2020-10-10_03.png)
+![](https://i.imgur.com/d3gbpH9.png)
 
 ## New Foods
-![](https://media.forgecdn.net/attachments/319/513/2020-11-01_17.png)
+![](https://i.imgur.com/DIIujBG.png)
