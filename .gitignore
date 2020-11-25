@@ -8,6 +8,7 @@ server/*
 server/config/*
 !charm.toml
 !automated_crafting.json
+!sojurn.json
 
 !server/config/traverse/
 server/config/traverse/*

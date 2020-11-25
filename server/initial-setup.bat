@@ -18,7 +18,7 @@ curl https://media.forgecdn.net/files/3093/797/BetterCaves-fabric-1.16.2-1.0.3.j
 curl https://media.forgecdn.net/files/3090/518/cavebiomes-0.5.1.jar -O
 curl https://media.forgecdn.net/files/3102/542/world_blender-1.16.4-1.0.9.jar -O
 curl https://media.forgecdn.net/files/3100/562/vanilla-hammers-3.0.1-1.16.3.jar -O
-curl https://media.forgecdn.net/files/3106/788/simplexterrain-0.7.1.jar -O
+::curl https://media.forgecdn.net/files/3106/788/simplexterrain-0.7.1.jar -O
 curl https://media.forgecdn.net/files/3110/972/repurposed_structures-1.16.4-1.7.0.jar -O
 curl https://media.forgecdn.net/files/3111/319/mcdw-1.1.8-1.16.4.jar -O
 curl https://media.forgecdn.net/files/3107/909/lithium-fabric-mc1.16.4-0.6.0.jar -O
@@ -31,6 +31,7 @@ curl https://media.forgecdn.net/files/3038/575/lapisreserve-1.0.6.jar -O
 curl https://media.forgecdn.net/files/3049/515/flesh2leather-1.0.1.jar -O
 curl https://media.forgecdn.net/files/3063/794/overworld-two-1.0.3.jar -O
 curl https://media.forgecdn.net/files/3111/46/charm-fabric-1.16.4-2.1.1-hotfix1.jar -O
+curl https://media.forgecdn.net/files/3105/407/sojurn-b1.1.jar -O
 curl https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%%2B1.16.4-fabric.jar -O
 curl https://media.forgecdn.net/files/2983/652/fatxporbs-0.0.7%%2B1.16-rc1.jar -O
 curl https://media.forgecdn.net/files/3112/610/fabric-api-0.26.0%%2B1.16.jar -O
