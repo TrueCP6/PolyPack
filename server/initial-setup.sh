@@ -16,7 +16,7 @@ wget https://theepicblock.nl/builds/PolyMc-LATEST.jar
 wget https://media.forgecdn.net/files/3100/383/adapaxels-1.0.4.jar
 wget https://media.forgecdn.net/files/3093/797/BetterCaves-fabric-1.16.2-1.0.3.jar
 wget https://media.forgecdn.net/files/3090/518/cavebiomes-0.5.1.jar
-wget https://media.forgecdn.net/files/3102/542/world_blender-1.16.4-1.0.9.jar
+wget https://media.forgecdn.net/files/3125/528/world_blender-1.16.4-1.0.11.jar
 wget https://media.forgecdn.net/files/3100/562/vanilla-hammers-3.0.1-1.16.3.jar
 #wget https://media.forgecdn.net/files/3106/788/simplexterrain-0.7.1.jar
 wget https://media.forgecdn.net/files/3110/972/repurposed_structures-1.16.4-1.7.0.jar

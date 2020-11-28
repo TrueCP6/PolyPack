@@ -11,6 +11,7 @@ server/config/*
 !charm.toml
 !automated_crafting.json
 !sojurn.json
+!world_blender.json5
 
 !server/config/traverse/
 server/config/traverse/*

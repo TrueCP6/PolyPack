@@ -19,6 +19,9 @@ As PolyMc adds more features this modpack will continue to expand with new conte
 ![](https://i.imgur.com/urvFdBT.jpeg)
 ![](https://i.imgur.com/driGKXk.png)
 
+## New Dimension
+![](https://i.imgur.com/DvYlADh.jpg)
+
 ## Overhauled Caves
 ![](https://i.imgur.com/U1cCvfV.png)
 ![](https://i.imgur.com/xhueu4B.jpeg)
