@@ -38,6 +38,8 @@ wget https://media.forgecdn.net/files/3112/642/quickshulker-1.1.11-1.16.jar
 wget https://media.forgecdn.net/files/3023/434/fastfurnace-2.3.jar
 wget https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar
 wget https://media.forgecdn.net/files/3119/356/YungsApi-1.16.4-Fabric-1.jar
+wget https://media.forgecdn.net/files/3117/12/wraith-harvestscythes-1.0.4.jar
+wget https://media.forgecdn.net/files/3111/745/Couplings-1.3.6.jar
 wget https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%2B1.16.4-fabric.jar
 wget https://media.forgecdn.net/files/2983/652/fatxporbs-0.0.7%2B1.16-rc1.jar
 wget https://media.forgecdn.net/files/3112/610/fabric-api-0.26.0%2B1.16.jar
