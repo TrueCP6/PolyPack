@@ -32,6 +32,12 @@ wget https://media.forgecdn.net/files/3049/515/flesh2leather-1.0.1.jar
 wget https://media.forgecdn.net/files/3063/794/overworld-two-1.0.3.jar
 wget https://media.forgecdn.net/files/3111/46/charm-fabric-1.16.4-2.1.1-hotfix1.jar
 wget https://media.forgecdn.net/files/3105/407/sojurn-b1.1.jar
+wget https://media.forgecdn.net/files/3060/706/vanillaexcavators-2.1.2-1.16.2.jar
+wget https://media.forgecdn.net/files/3121/332/BetterMineshafts-Fabric-1.16.4-1.0.jar
+wget https://media.forgecdn.net/files/3112/642/quickshulker-1.1.11-1.16.jar
+wget https://media.forgecdn.net/files/3023/434/fastfurnace-2.3.jar
+wget https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar
+wget https://media.forgecdn.net/files/3119/356/YungsApi-1.16.4-Fabric-1.jar
 wget https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%2B1.16.4-fabric.jar
 wget https://media.forgecdn.net/files/2983/652/fatxporbs-0.0.7%2B1.16-rc1.jar
 wget https://media.forgecdn.net/files/3112/610/fabric-api-0.26.0%2B1.16.jar
