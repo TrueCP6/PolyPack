@@ -6,7 +6,7 @@ PolyPack **does not replace** any vanilla content.
 
 It does so by utilising the [PolyMc](https://github.com/TheEpicBlock/PolyMc) mod and the resource pack it generates as a compatibility layer between the vanilla client and the modded Fabric server.
 
-For the new blocks and items to properly display, each person connecting to the server must [install and enable](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack) the latest version of the resource pack which can be found on the [GitHub releases page](https://github.com/TrueCP6/PolyPack/releases). It should be completely compatible with all other resource packs as it does not overwrite vanilla textures.
+For the new blocks and items to properly display, each person connecting to the server must accept the server resource pack.
 
 ### [Mod List](https://github.com/TrueCP6/PolyPack/wiki/Mod-list)
 As PolyMc adds more features this modpack will continue to expand with new content. Not all features of the currently included mods are available yet but as PolyMc improves they will be enabled.
