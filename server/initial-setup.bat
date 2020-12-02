@@ -40,6 +40,7 @@ curl https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.j
 curl https://media.forgecdn.net/files/3119/356/YungsApi-1.16.4-Fabric-1.jar -O
 curl https://media.forgecdn.net/files/3117/12/wraith-harvestscythes-1.0.4.jar -O
 curl https://media.forgecdn.net/files/3111/745/Couplings-1.3.6.jar -O
+curl https://media.forgecdn.net/files/3119/141/the_bumblezone_fabric-1.16.3-2.2.10.jar -O
 curl https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%%2B1.16.4-fabric.jar -O
 curl https://media.forgecdn.net/files/2983/652/fatxporbs-0.0.7%%2B1.16-rc1.jar -O
 curl https://media.forgecdn.net/files/3112/610/fabric-api-0.26.0%%2B1.16.jar -O
@@ -48,3 +49,4 @@ curl https://media.forgecdn.net/files/2987/621/phosphor-fabric-mc1.16.1-0.6.0%%2
 curl https://media.forgecdn.net/files/3101/401/automated-crafting-1.3.13%%2BMC1.16.2-1.16.4.jar -O
 curl https://media.forgecdn.net/files/3121/541/traverse-3.0.3%%2Bbuild.13.jar -O
 curl https://media.forgecdn.net/files/3109/915/terrestria-2.1.5%%2Bbuild.28.jar -O
+curl https://media.forgecdn.net/files/3112/69/notenoughcrashes-2.1.4%%2B1.16.4.jar -O
