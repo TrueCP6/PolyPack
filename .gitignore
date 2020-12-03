@@ -6,6 +6,11 @@ server/*
 !start.bat
 !start.sh
 
+!server/world/
+server/world/*
+!carpet.conf
+!server/world/scripts/
+
 !server/config/
 server/config/*
 !charm.toml
