@@ -17,6 +17,7 @@ server/config/*
 !automated_crafting.json
 !sojurn.json
 !world_blender.json5
+!fabrication.ini
 
 !server/config/traverse/
 server/config/traverse/*

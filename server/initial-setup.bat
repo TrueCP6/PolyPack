@@ -36,12 +36,12 @@ curl https://media.forgecdn.net/files/3060/706/vanillaexcavators-2.1.2-1.16.2.ja
 curl https://media.forgecdn.net/files/3121/332/BetterMineshafts-Fabric-1.16.4-1.0.jar -O
 curl https://media.forgecdn.net/files/3112/642/quickshulker-1.1.11-1.16.jar -O
 curl https://media.forgecdn.net/files/3023/434/fastfurnace-2.3.jar -O
-curl https://media.forgecdn.net/files/3036/54/BowInfinityFix-1.16.x-fabric-rv9.jar -O
 curl https://media.forgecdn.net/files/3119/356/YungsApi-1.16.4-Fabric-1.jar -O
 curl https://media.forgecdn.net/files/3117/12/wraith-harvestscythes-1.0.4.jar -O
 curl https://media.forgecdn.net/files/3111/745/Couplings-1.3.6.jar -O
 curl https://media.forgecdn.net/files/3119/141/the_bumblezone_fabric-1.16.3-2.2.10.jar -O
 curl https://media.forgecdn.net/files/3030/944/carpet-extra-1.16.2-1.4.8.jar -O
+curl https://media.forgecdn.net/files/3110/866/fabrication-1.2.3_02.jar -O
 curl https://media.forgecdn.net/files/3111/160/flora-doubling-1.3.0%%2B1.16.4-fabric.jar -O
 curl https://media.forgecdn.net/files/3112/610/fabric-api-0.26.0%%2B1.16.jar -O
 curl https://media.forgecdn.net/files/3110/882/crookedcrooks-1.3.2%%2B1.16.4.jar -O
