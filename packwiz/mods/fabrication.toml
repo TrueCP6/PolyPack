@@ -1,0 +1,14 @@
+name = "Fabrication"
+filename = "fabrication-1.2.3_02.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3110/866/fabrication-1.2.3_02.jar"
+hash-format = "murmur2"
+hash = "854733262"
+
+[update]
+[update.curseforge]
+file-id = 3110866
+project-id = 414445
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Crafty Cuisine (Fabric) - Vanilla Inspired Food"
+filename = "craftycuisine-b1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3102/340/craftycuisine-b1.1.jar"
+hash-format = "murmur2"
+hash = "1353683701"
+
+[update]
+[update.curseforge]
+file-id = 3102340
+project-id = 417071
+release-channel = "beta"

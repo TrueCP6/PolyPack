@@ -1,0 +1,14 @@
+name = "Fabric Chunk Pregenerator"
+filename = "fabric-chunkpregen-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3095/793/fabric-chunkpregen-0.3.3.jar"
+hash-format = "murmur2"
+hash = "879563110"
+
+[update]
+[update.curseforge]
+file-id = 3095793
+project-id = 361585
+release-channel = "beta"

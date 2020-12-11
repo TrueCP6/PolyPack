@@ -1,0 +1,8 @@
+name = "Baila"
+filename = "baila-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheEpicBlock/baila/releases/download/1.1.0/baila-1.1.0.jar"
+hash-format = "sha256"
+hash = "e406e5ca63ed7a26d24ac6e50218c565097965ad6c5e401046aba3c7ad46537b"

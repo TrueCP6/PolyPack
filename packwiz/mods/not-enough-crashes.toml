@@ -1,0 +1,14 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-2.1.4+1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3112/69/notenoughcrashes-2.1.4+1.16.4.jar"
+hash-format = "murmur2"
+hash = "409683563"
+
+[update]
+[update.curseforge]
+file-id = 3112069
+project-id = 353890
+release-channel = "beta"

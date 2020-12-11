@@ -1,0 +1,14 @@
+name = "Flora Doubling (Fabric)"
+filename = "flora-doubling-1.3.0+1.16.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3111/160/flora-doubling-1.3.0+1.16.4-fabric.jar"
+hash-format = "murmur2"
+hash = "1590101042"
+
+[update]
+[update.curseforge]
+file-id = 3111160
+project-id = 332831
+release-channel = "beta"

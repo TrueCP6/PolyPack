@@ -1,0 +1,14 @@
+name = "Lithium (Fabric)"
+filename = "lithium-fabric-mc1.16.4-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3107/909/lithium-fabric-mc1.16.4-0.6.0.jar"
+hash-format = "murmur2"
+hash = "3777141017"
+
+[update]
+[update.curseforge]
+file-id = 3107909
+project-id = 360438
+release-channel = "beta"

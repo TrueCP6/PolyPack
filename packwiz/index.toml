@@ -1,0 +1,234 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "116340723fb89ef56019c8b18743ea26031fca53d160d9e98d91119b649ddc35"
+
+[[files]]
+file = "config/carpet/scripts/veinminer.sc"
+hash = "c156b1923299fdabcca269121bee061424d1d5ac5b6800dbb2fd5c4507121bdf"
+
+[[files]]
+file = "config/charm.toml"
+hash = "e329057aa633cd2c616062de89962227cb141e21b3314081d76806eef7652b6c"
+
+[[files]]
+file = "config/fabrication.ini"
+hash = "0921c770cad29842c2a58ff0cf3c6e17365a836708b6d8550b5a9eb237f31eb8"
+
+[[files]]
+file = "config/sojurn.json"
+hash = "210b85ef0ffa03e46dcc29aae5119b8204cd656884c70965dcba177ff1de0c68"
+
+[[files]]
+file = "config/terrestria/biomes.json"
+hash = "b55f67ef10944115b0f4307c68da02b0fff39fe00241c06693d0c6d7acd3148a"
+
+[[files]]
+file = "config/traverse/biomes.json"
+hash = "07c24b0333e1fc5f24f2477d9c1199ee89fe05c756b250c9f3e2e5ffdcd06696"
+
+[[files]]
+file = "config/world_blender.json5"
+hash = "31c8537d9fa7954e9e36b4013a90c7f9b97f84b38155c1af811c5ef56396debc"
+
+[[files]]
+file = "mods/PolyMc-LATEST.jar"
+hash = "0d2e477b16ee3765849943f618588463275f2cef8ddbe48a075ad5b0f3161ebf"
+
+[[files]]
+file = "mods/adapaxels.toml"
+hash = "b247d3b83196e7471dc62771eb2d8278714c12fb956cc8356bbccaeba13873c1"
+metafile = true
+
+[[files]]
+file = "mods/baila.toml"
+hash = "5ee288ff3db3eeafb8b8892f4fff9b8218c928afd55f1fb537a45577324ef3fb"
+metafile = true
+
+[[files]]
+file = "mods/blast.toml"
+hash = "0ef925a31d3955c5200e67133a327c9dfb00c44c094c3c45c9b3601ec1d0599d"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "32d840c13c6ac5cbbfb785a37df9e517f1ee59b5a6b0b98d04736874828cf1ec"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "19e88fd2fe5f8411b8122294f6d603c7bb3af3c23abb1a8ec288f307715ba272"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "5eea2a7329f28d2e5ccfa4a789934c4cdeaa0921e8df05f13db28a8465cf49cb"
+metafile = true
+
+[[files]]
+file = "mods/charm.toml"
+hash = "b4cb93034414229c67354463246b2a83d054d55e06cbfee3f11918ade78d5a0c"
+metafile = true
+
+[[files]]
+file = "mods/chunk-pregenerator-fabric.toml"
+hash = "58656c01fa3305de76e0b16e0695ff8820f7551a84789644ca96b41dd9f4bae7"
+metafile = true
+
+[[files]]
+file = "mods/couplings-for-fabric-updated.toml"
+hash = "296dd73743cac284b9f0b5863feb0a0a27f046ebb91cbd21d64f55f999812480"
+metafile = true
+
+[[files]]
+file = "mods/crafty-cuisine-fabric.toml"
+hash = "fb5bea720f36016afb2dd98c8379575cbb6dd6cb2f35b656afa7fdffb7d14024"
+metafile = true
+
+[[files]]
+file = "mods/crooked-crooks.toml"
+hash = "7c1620caeff46cb0bc0d13346eb991ced319f9b7862d64f7aa554f2d678938a1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d947b9995f487d69e91a2041e39d3793f3ee089a38bdcebfdb69511cee7dc632"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.toml"
+hash = "3acecdb9e25a6aa8826be89123f0f57cc7fb3255761dc2ec03628b7a2f56836f"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "75782c4665bae2249e5e5cb5434b8615f0f64c7412bd254926c9cddc761d3b05"
+metafile = true
+
+[[files]]
+file = "mods/flan.toml"
+hash = "006983ef8e278569541677f23dc34d997fa3c32f132e79708b445333797f12fc"
+metafile = true
+
+[[files]]
+file = "mods/flesh2leather-fabric.toml"
+hash = "731c75fe0d392aa4f13baf69376def4becf575f08cb1e7f810c53b2c0e07b51c"
+metafile = true
+
+[[files]]
+file = "mods/flora-doubling-fabric.toml"
+hash = "8b610d7f580df7203411861aacea7813d536f594b396005f2b4276fc533749d1"
+metafile = true
+
+[[files]]
+file = "mods/harvest-scythes.toml"
+hash = "fd0da3da01db91db82763c0218130f8d4c17b861349a482f090e0e4e92895e8b"
+metafile = true
+
+[[files]]
+file = "mods/lapis-reserve.toml"
+hash = "3aada53fd658719cb21067b4f0755d9fb86841637fa9ce490f94efaced2a2454"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "476a7538514a195683a8eecdca4e2cc2b7193bd000b3229a845ff872737acaaf"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.toml"
+hash = "e46997286cb944eb2af711ac2994741b410a72f93ed44acbf6a028c1f23beab7"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "c2175f53f60ea3db432bb41b174b4bd4ff2e24e1c6d1f1d4750d2e81811aa5e5"
+metafile = true
+
+[[files]]
+file = "mods/overworld-two.toml"
+hash = "b5d9e15b142dcc3003f4e4a6317b53a33fa87f5c58655663c02c471fe8831834"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+metafile = true
+
+[[files]]
+file = "mods/quick-shulker.toml"
+hash = "af4cf9203882aaf4362e7280fee6775dcd91040676d53830e1fbf4f6a9103b44"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "997bbfcb2b92fde0e0e82898eaf64d671631dbb4bc3f1983662caf94dda14b69"
+metafile = true
+
+[[files]]
+file = "mods/sojurn.toml"
+hash = "ac34dbd4867d9b9566f654bd6e4f176907779786e2304936417c974ea85a51a7"
+metafile = true
+
+[[files]]
+file = "mods/staff-of-building.toml"
+hash = "9424c57ca03ce834380a375e9dd70001f4e9a775cacb85d280724ca72d9ee4b0"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.toml"
+hash = "1d93f193bb2e98c3a45453a91faf13b83246dc54e0ae06007643a5486f00553b"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.toml"
+hash = "0ecade95f9581ba2e3ddb1bef74a60f63ba90d65b1d1ad0443e5a458da770eb5"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "26f9f3aba664f929121457dfbd9c36c3d4f57bcf481f07726547f6ec8195ac06"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-excavators.toml"
+hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.toml"
+hash = "b81081cb3f0a9ad01c62aede632e4599ac1d977160d3626bbcc8b29c14e5eaf2"
+metafile = true
+
+[[files]]
+file = "mods/world-blender-fabric.toml"
+hash = "efa4bd6f9d11fef92d8e7ffd8cd144bf16fd621ee890cf449b5c969591202c9e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "316eede9c30e049cfdb022a28e85be4c3523add3064491c7e1729168c423b91d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves-fabric.toml"
+hash = "35df9fea862e2443aa5f444ecfe28aa82ae5b8dd94aa05318f0fce130ab9b1a4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "bee6cf4d371313d9131b7042e9f5efa2394e31532d209e36cfe52e56776040b0"
+metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "90f7d7174c97f99aab22a17b5760ed07f6abd29b3855348370f34789c2376626"
+
+[[files]]
+file = "world/carpet.conf"
+hash = "116340723fb89ef56019c8b18743ea26031fca53d160d9e98d91119b649ddc35"
+
+[[files]]
+file = "world/scripts/veinminer.sc"
+hash = "c156b1923299fdabcca269121bee061424d1d5ac5b6800dbb2fd5c4507121bdf"

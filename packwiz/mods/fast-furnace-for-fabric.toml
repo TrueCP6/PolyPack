@@ -1,0 +1,14 @@
+name = "Fast Furnace for Fabric"
+filename = "fastfurnace-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3023/434/fastfurnace-2.3.jar"
+hash-format = "murmur2"
+hash = "2763713293"
+
+[update]
+[update.curseforge]
+file-id = 3023434
+project-id = 364540
+release-channel = "beta"

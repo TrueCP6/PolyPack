@@ -1,0 +1,14 @@
+name = "YUNG's Better Caves (Fabric)"
+filename = "BetterCaves-fabric-1.16.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3093/797/BetterCaves-fabric-1.16.2-1.0.3.jar"
+hash-format = "murmur2"
+hash = "101729400"
+
+[update]
+[update.curseforge]
+file-id = 3093797
+project-id = 408465
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "AdaPaxels"
+filename = "adapaxels-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3100/383/adapaxels-1.0.4.jar"
+hash-format = "murmur2"
+hash = "329458275"
+
+[update]
+[update.curseforge]
+file-id = 3100383
+project-id = 406691
+release-channel = "beta"

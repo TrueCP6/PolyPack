@@ -1,0 +1,14 @@
+name = "Cave Biomes"
+filename = "cavebiomes-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3090/518/cavebiomes-0.5.1.jar"
+hash-format = "murmur2"
+hash = "132682420"
+
+[update]
+[update.curseforge]
+file-id = 3090518
+project-id = 371307
+release-channel = "beta"

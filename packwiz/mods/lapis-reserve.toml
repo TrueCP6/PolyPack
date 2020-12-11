@@ -1,0 +1,14 @@
+name = "Lapis Reserve"
+filename = "lapisreserve-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge-service.overwolf.wtf/files/3038/575/lapisreserve-1.0.6.jar"
+hash-format = "murmur2"
+hash = "3857510316"
+
+[update]
+[update.curseforge]
+file-id = 3038575
+project-id = 399679
+release-channel = "beta"
