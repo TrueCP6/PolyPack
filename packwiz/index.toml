@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/carpet/default_carpet.conf"
-hash = "116340723fb89ef56019c8b18743ea26031fca53d160d9e98d91119b649ddc35"
-
-[[files]]
-file = "config/carpet/scripts/veinminer.sc"
-hash = "c156b1923299fdabcca269121bee061424d1d5ac5b6800dbb2fd5c4507121bdf"
-
-[[files]]
 file = "config/charm.toml"
 hash = "e329057aa633cd2c616062de89962227cb141e21b3314081d76806eef7652b6c"
 
@@ -31,6 +23,10 @@ hash = "07c24b0333e1fc5f24f2477d9c1199ee89fe05c756b250c9f3e2e5ffdcd06696"
 [[files]]
 file = "config/world_blender.json5"
 hash = "31c8537d9fa7954e9e36b4013a90c7f9b97f84b38155c1af811c5ef56396debc"
+
+[[files]]
+file = "eula.txt"
+hash = "94169d86becdfccbb25ab7800c7ffec69aba470fbc1a7e4604e36833ab2eeb8f"
 
 [[files]]
 file = "mods/PolyMc-LATEST.jar"
@@ -224,6 +220,22 @@ metafile = true
 [[files]]
 file = "server.properties"
 hash = "90f7d7174c97f99aab22a17b5760ed07f6abd29b3855348370f34789c2376626"
+
+[[files]]
+file = "start-server.bat"
+hash = "eac186936320fb0b010839496fa2d62ffa189d4c5d3d9db37fdc571b8de322e6"
+
+[[files]]
+file = "start-server.sh"
+hash = "976ec6209310cb3caaa05d735335f7aed7b650caf2473229260f4783ff5dab92"
+
+[[files]]
+file = "update-server.bat"
+hash = "a78e42b4ed497b1b1835307642008fc6085648fb7255c195ccecbfc8817f3314"
+
+[[files]]
+file = "update-server.sh"
+hash = "e8b2345f15aaf0b906f43ade7f4ebd09932bc1cf38e75fd0139bee8300e1da92"
 
 [[files]]
 file = "world/carpet.conf"
