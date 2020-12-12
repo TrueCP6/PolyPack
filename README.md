@@ -1,6 +1,6 @@
 PolyPack is a server modpack which is made to be played with a 1.16.4 vanilla client.
 
-It aims to add as much quality modded content as possible to the server and currently adds new biomes, structures, tools, weapons, blocks and a new dimension.
+It aims to add as much quality modded content as possible and currently adds new biomes, structures, tools, weapons, blocks and dimensions.
 
 PolyPack **does not replace** any vanilla content.
 
@@ -19,8 +19,9 @@ As PolyMc adds more features this modpack will continue to expand with new conte
 ![](https://i.imgur.com/urvFdBT.jpeg)
 ![](https://i.imgur.com/driGKXk.png)
 
-## New Dimension
+## New Dimensions
 ![](https://i.imgur.com/DvYlADh.jpg)
+![](https://i.imgur.com/qAlCNIj.png)
 
 ## Overhauled Caves
 ![](https://i.imgur.com/U1cCvfV.png)
