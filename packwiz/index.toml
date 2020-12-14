@@ -231,11 +231,11 @@ hash = "976ec6209310cb3caaa05d735335f7aed7b650caf2473229260f4783ff5dab92"
 
 [[files]]
 file = "update-server.bat"
-hash = "a78e42b4ed497b1b1835307642008fc6085648fb7255c195ccecbfc8817f3314"
+hash = "635874c25c566581200c0d29be8fe1618655981b86cc7f1d36e168283ad2ae0f"
 
 [[files]]
 file = "update-server.sh"
-hash = "e8b2345f15aaf0b906f43ade7f4ebd09932bc1cf38e75fd0139bee8300e1da92"
+hash = "c43f15ec2d82470a78a6eb06a7235e95755126a45b6b58090ad8149919b9b043"
 
 [[files]]
 file = "world/carpet.conf"
