@@ -1,14 +1,14 @@
 name = "The Bumblezone (Fabric)"
-filename = "the_bumblezone_fabric-1.16.3-2.2.11.jar"
+filename = "the_bumblezone_fabric-1.16.3-2.2.13.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3131/504/the_bumblezone_fabric-1.16.3-2.2.11.jar"
+url = "https://edge.forgecdn.net/files/3136/995/the_bumblezone_fabric-1.16.3-2.2.13.jar"
 hash-format = "murmur2"
-hash = "1810219282"
+hash = "2737500150"
 
 [update]
 [update.curseforge]
-file-id = 3131504
+file-id = 3136995
 project-id = 363949
 release-channel = "beta"

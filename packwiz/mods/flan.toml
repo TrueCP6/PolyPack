@@ -1,14 +1,14 @@
 name = "Flan"
-filename = "flan-1.16.2-1.2.0.jar"
+filename = "flan-1.16.2-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3125/683/flan-1.16.2-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3136/60/flan-1.16.2-1.2.1.jar"
 hash-format = "murmur2"
-hash = "1330946713"
+hash = "3164435527"
 
 [update]
 [update.curseforge]
-file-id = 3125683
+file-id = 3136060
 project-id = 404578
 release-channel = "beta"

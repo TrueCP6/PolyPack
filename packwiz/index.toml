@@ -34,7 +34,7 @@ hash = "0d2e477b16ee3765849943f618588463275f2cef8ddbe48a075ad5b0f3161ebf"
 
 [[files]]
 file = "mods/adapaxels.toml"
-hash = "b247d3b83196e7471dc62771eb2d8278714c12fb956cc8356bbccaeba13873c1"
+hash = "d8d31868a2f7870f9c7dc70d6d1235cbe1abf6bf63f297a5d94376eec95b02af"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast.toml"
-hash = "0ef925a31d3955c5200e67133a327c9dfb00c44c094c3c45c9b3601ec1d0599d"
+hash = "ead873311ff32db6d2c4c9aa386de72f5c9d561bdff76f8119850074592a8ee9"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.toml"
-hash = "b4cb93034414229c67354463246b2a83d054d55e06cbfee3f11918ade78d5a0c"
+hash = "e38c7c5ed2950a75c118d2334902e82e01dc0e2d77a92e6e091959369256430a"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d947b9995f487d69e91a2041e39d3793f3ee089a38bdcebfdb69511cee7dc632"
+hash = "c949313b9df52d4b980b6cabcbc29c4c2b9152a7b2bb3b4c2e6eba0da8ba22ef"
 metafile = true
 
 [[files]]
@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/flan.toml"
-hash = "006983ef8e278569541677f23dc34d997fa3c32f132e79708b445333797f12fc"
+hash = "c4ade6908d203c62b9dba1fd89e2afde41ff7489bf076e2d86a17c67f7c8de0a"
 metafile = true
 
 [[files]]
 file = "mods/flesh2leather-fabric.toml"
-hash = "731c75fe0d392aa4f13baf69376def4becf575f08cb1e7f810c53b2c0e07b51c"
+hash = "e9a6703461b86705acc92fee29416f75b370f3017ad4e4301687ec40c2b5eafb"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdw.toml"
-hash = "e46997286cb944eb2af711ac2994741b410a72f93ed44acbf6a028c1f23beab7"
+hash = "2af44a80140e3a196cf3223f5a84d72f89863aec57d202d21de47d839c0fe7f2"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+hash = "4e00fedd5469dba1ca13009dcceb375be0235df613c3e340af5b599212dc8bce"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/staff-of-building.toml"
-hash = "9424c57ca03ce834380a375e9dd70001f4e9a775cacb85d280724ca72d9ee4b0"
+hash = "05e8ec01f012601974714973804fe5df8097ca8fb34ac11a85efe9c116ac9b14"
 metafile = true
 
 [[files]]
@@ -179,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.toml"
-hash = "0ecade95f9581ba2e3ddb1bef74a60f63ba90d65b1d1ad0443e5a458da770eb5"
+hash = "025d639f3daad4083f5cea0276a68ae6bc436be574f61b50129b03cad1a6bd05"
 metafile = true
 
 [[files]]
 file = "mods/traverse.toml"
-hash = "26f9f3aba664f929121457dfbd9c36c3d4f57bcf481f07726547f6ec8195ac06"
+hash = "26b989580056e7389e67e81e58e6aaca4fceb01b2139c321c11025bcf030ca47"
 metafile = true
 
 [[files]]

@@ -1,14 +1,14 @@
 name = "BLAST 💣"
-filename = "blast-1.4.jar"
+filename = "blast-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3075/427/blast-1.4.jar"
+url = "https://edge.forgecdn.net/files/3136/832/blast-1.5.jar"
 hash-format = "murmur2"
-hash = "4087803718"
+hash = "3400117417"
 
 [update]
 [update.curseforge]
-file-id = 3075427
+file-id = 3136832
 project-id = 349938
 release-channel = "beta"
