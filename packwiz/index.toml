@@ -25,6 +25,14 @@ file = "config/world_blender.json5"
 hash = "31c8537d9fa7954e9e36b4013a90c7f9b97f84b38155c1af811c5ef56396debc"
 
 [[files]]
+file = "download-fabric.bat"
+hash = "57cd515bcf0dc512689cd6e2dea497b7896370a70e084aa2c8854e831fada3ae"
+
+[[files]]
+file = "download-fabric.sh"
+hash = "6155620fd733b5072cd6e1f04906ba396fd2aaecc7193fbf981f1bae330d6f05"
+
+[[files]]
 file = "eula.txt"
 hash = "94169d86becdfccbb25ab7800c7ffec69aba470fbc1a7e4604e36833ab2eeb8f"
 
@@ -231,11 +239,11 @@ hash = "976ec6209310cb3caaa05d735335f7aed7b650caf2473229260f4783ff5dab92"
 
 [[files]]
 file = "update-server.bat"
-hash = "635874c25c566581200c0d29be8fe1618655981b86cc7f1d36e168283ad2ae0f"
+hash = "8c4e6616cdfe9f02016d87dae6dec412bc42ec4cf749c915f505e153c864f82d"
 
 [[files]]
 file = "update-server.sh"
-hash = "c43f15ec2d82470a78a6eb06a7235e95755126a45b6b58090ad8149919b9b043"
+hash = "3144eb4086fd55e8803e3dca108f7c369b582ae570416dade9cc7e0c9c06866b"
 
 [[files]]
 file = "world/carpet.conf"
