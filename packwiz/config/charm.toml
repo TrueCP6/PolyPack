@@ -1,7 +1,13 @@
+#Tools with the Acquisition enchantment automatically pick up drops.
+"Acquisition Enabled" = true
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
 "AnvilImprovements Enabled" = true
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = true
+#A map storage.
+"Atlas Enabled" = false
+#Refills your hotbar from your inventory.
+"AutoRestock Enabled" = true
 #Unlocks all vanilla recipes.
 "AutomaticRecipeUnlock Enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
@@ -40,10 +46,10 @@
 "EndermitePowder Enabled" = false
 #Extends the lifetime of netherite-based items before they despawn.
 "ExtendNetherite Enabled" = true
-#Extract enchantments from any enchanted item into an empty book.
+#Extract enchantments from any enchanted item into an empty book using the grindstone.
 "ExtractEnchantments Enabled" = true
 #A player wearing feather falling enchanted boots will not trample crops.
-"FeatherFallingCrops Enabled" = true
+"FeatherFallingCrops Enabled" = false
 #Glowballs can be thrown to produce a light source where they impact.
 "Glowballs Enabled" = false
 #Gold variant of vanilla iron bars.
@@ -55,7 +61,7 @@
 #Right-click with a hoe to quickly harvest and replant a fully-grown crop.
 "HoeHarvesting Enabled" = true
 #Husks spawn anywhere within their biome and have a chance to drop sand.
-"HuskImprovements Enabled" = true
+"HuskImprovements Enabled" = false
 #Button to automatically tidy inventories.
 "InventoryTidying Enabled" = true
 #A functional block that speeds up cooking of clay, bricks and terracotta.
@@ -64,6 +70,8 @@
 "Lumberjacks Enabled" = true
 #Adds decoration and more ores to mineshafts.
 "MineshaftImprovements Enabled" = true
+#Mooblooms are cow-like mobs that come in a variety of flower types. They spawn flowers where they walk and can be milked for suspicious stew.
+"Mooblooms Enabled" = false
 #Villages can spawn in swamps and jungles.
 "MoreVillageBiomes Enabled" = true
 #Playing a record in a jukebox stops background music from playing at the same.
@@ -79,6 +87,8 @@
 "PortableCrafting Enabled" = true
 #Allows access to chest contents if the player has an Ender Chest in their inventory.
 "PortableEnderChest Enabled" = true
+#Raid horns are sometimes dropped from raid leaders and can be used to call off or start raids.
+"RaidHorns Enabled" = true
 #A lantern that emits light when a redstone signal is received.
 "RedstoneLanterns Enabled" = false
 #A block that acts like sand but is powered like a block of redstone.
@@ -95,20 +105,26 @@
 "SleepImprovements Enabled" = true
 #Smelt glowstone to get smooth glowstone.
 "SmoothGlowstone Enabled" = false
+#Increases snow layers in cold biomes during thunderstorms.
+"SnowStorms Enabled" = true
 #Allows enchanted books to stack.
 "StackableEnchantedBooks Enabled" = true
 #Allows potions to stack.
 "StackablePotions Enabled" = true
+#Allows stews to stack.
+"StackableStews Enabled" = true
 #Strays spawn anywhere within their biome and have a chance to drop blue ice.
 "StrayImprovements Enabled" = true
 #Tamed animals do not take direct damage from players.
 "TamedAnimalsNoDamage Enabled" = true
+#When applied, this enchantment lets you change the color of the enchanted glint using dye on an anvil. Requires Core 'Enchantment glint override' to be true.
+"Tinted Enabled" = true
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
 "VariantBarrels Enabled" = false
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves Enabled" = false
+"VariantBookshelves Enabled" = true
 #Chests available in all types of vanilla wood.
 "VariantChests Enabled" = false
 #Ladders available in all types of vanilla wood.
@@ -129,6 +145,10 @@
 	"Remove Too Expensive" = true
 	#If true, anvils are 50% less likely to take damage when used.
 	"Stronger anvils" = true
+
+[Atlas]
+	#The atlas will create maps of this size (0-4).
+	"Map Size" = 2
 
 [BatBuckets]
 	#Number of seconds that entities will receive the glowing effect.
@@ -165,13 +185,17 @@
 [CoralSquids]
 	#Chance (out of 1.0) of a coral squid dropping coral when killed by the player.
 	"Drop chance" = 0.2
+	#Chance of coral squids spawning in warm ocean biomes.
+	"Spawn weight" = 50
 
 [Core]
 	#If true, routes additional debug messages into the standard game log.
 	"Debug mode" = false
 	#If inventory crafting or inventory ender chest modules are enabled, pressing escape or inventory key returns you to the inventory rather than closing the window.
 	"Inventory button return" = false
-	#Set the default glint color for all enchanted items.
+	#If true, replaces vanilla glint color rendering with Charm's, allowing for multiple enchantment glint colors.
+	"Enchantment glint override" = true
+	#Set the default glint color for all enchanted items.  Requires 'Enchantment glint override' to be true.
 	"Enchantment glint color" = "purple"
 
 [Crates]
@@ -188,7 +212,7 @@
 	#Maximum endermite powder dropped when endermite is killed.
 	"Maximum drops" = 2
 
-[EntitySpawner]
+[EntitySpawners]
 	#Player will trigger EntitySpawner blocks when closer than this distance.
 	"Trigger distance" = 16
 
@@ -199,8 +223,6 @@
 [ExtractEnchantments]
 	#Initial XP cost before adding XP equivalent to the enchantment level(s) of the item.
 	"Initial XP cost" = 2
-	#If the enchantment is a treasure enchantment, such as Mending, this cost will be added.
-	"Treasure XP cost" = 15
 
 [HuskImprovements]
 	#If true, husks can spawn anywhere within their biome rather than just the surface.
@@ -236,11 +258,23 @@
 	#If true, sets a keybind for opening the portable Ender Chest (defaults to 'b').
 	"Enable keybind" = true
 
+[RaidHorns]
+	#Chance (out of 1.0) of a patrol captain dropping a raid horn when killed by the player.
+	"Drop chance" = 0.05
+	#Volume of the raid horn sound effect when used.  1.0 is maximum volume.
+	Volume = 0.75
+
 [SleepImprovements]
 	#If true, the sleeping player does not need to wait as long before ending the night.
 	"Faster sleep" = false
 	#The number of players required to sleep in order to bring the next day.
 	"Number of required players" = 1
+
+[SnowStorms]
+	#Chance (out of 1.0) every tick of snow increasing by one layer during a thunderstorm.
+	"Snow layer chance" = 0.15
+	#If true, heavier snow textures are rendered during thunderstorms.
+	"Heavier snow texture" = true
 
 [StackableEnchantedBooks]
 	#Maximum enchanted book stack size.
@@ -250,6 +284,12 @@
 	#Maximum potion stack size.
 	"Stack size" = 16
 
+[StackableStews]
+	#Maximum stew stack size.
+	"Stack size" = 16
+	#Also apply to suspicious stew.
+	"Enable suspicious stew" = false
+
 [StrayImprovements]
 	#If true, strays can spawn anywhere within their biome rather than just the surface.
 	"Spawn anywhere in biome" = true
@@ -257,6 +297,10 @@
 	"Drop blue ice when killed" = true
 	#Maximum blue ice dropped when stray is killed.
 	"Maximum drops" = 2
+
+[Tinted]
+	#Number of levels required to change a tinted item using dye on an anvil.
+	"XP cost" = 0
 
 [VariantMobTextures]
 	#If true, cows may spawn with different textures.
@@ -279,8 +323,6 @@
 	"Rarity of rare variants" = 1000
 
 [WanderingTraderImprovements]
-	#If true, wandering traders will only spawn if the player is near a signal fire.
-	"Spawn near signal fire" = true
 	#If true, wandering traders will sell maps to biomes.
 	"Trade biome maps" = true
 	#If true, wandering traders will sell maps to structures.

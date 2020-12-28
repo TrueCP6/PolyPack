@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/charm.toml"
-hash = "e329057aa633cd2c616062de89962227cb141e21b3314081d76806eef7652b6c"
+hash = "9d0e38c2032a0cf2ab3753d248a48cf6ad2223e649fa63599d42d30ea5135977"
 
 [[files]]
 file = "config/fabrication.ini"
@@ -38,7 +38,7 @@ hash = "94169d86becdfccbb25ab7800c7ffec69aba470fbc1a7e4604e36833ab2eeb8f"
 
 [[files]]
 file = "mods/PolyMc-LATEST.jar"
-hash = "0d2e477b16ee3765849943f618588463275f2cef8ddbe48a075ad5b0f3161ebf"
+hash = "7f85a8d7b9c2f539c93f8fb884b329bce860e7076755698da9d20d8ad8a4666d"
 
 [[files]]
 file = "mods/adapaxels.toml"
