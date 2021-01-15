@@ -1,0 +1,14 @@
+name = "Ecotones"
+filename = "ecotones-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3168/20/ecotones-0.7.0.jar"
+hash-format = "murmur2"
+hash = "3315146808"
+
+[update]
+[update.curseforge]
+file-id = 3168020
+project-id = 356678
+release-channel = "beta"

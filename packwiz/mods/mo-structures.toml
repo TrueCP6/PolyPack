@@ -1,0 +1,14 @@
+name = "Mo' Structures"
+filename = "mostructures-1.0.1+mc.1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3127/503/mostructures-1.0.1+mc.1.16.4.jar"
+hash-format = "murmur2"
+hash = "2927775112"
+
+[update]
+[update.curseforge]
+file-id = 3127503
+project-id = 378266
+release-channel = "beta"
