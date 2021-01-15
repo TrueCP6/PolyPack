@@ -1,14 +1,14 @@
 name = "MC Dungeons Weapons"
-filename = "mcdw-2.3.0.jar"
+filename = "mcdw-2.4.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3147/145/mcdw-2.3.0.jar"
+url = "https://edge.forgecdn.net/files/3168/368/mcdw-2.4.8.jar"
 hash-format = "murmur2"
-hash = "883922506"
+hash = "4000992798"
 
 [update]
 [update.curseforge]
-file-id = 3147145
+file-id = 3168368
 project-id = 407311
 release-channel = "beta"

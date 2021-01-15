@@ -1,14 +1,14 @@
 name = "World Blender (Fabric)"
-filename = "world_blender-1.16.4-1.0.11.jar"
+filename = "world_blender-1.16.4-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3125/528/world_blender-1.16.4-1.0.11.jar"
+url = "https://edge.forgecdn.net/files/3167/40/world_blender-1.16.4-2.0.0.jar"
 hash-format = "murmur2"
-hash = "4122867544"
+hash = "738331934"
 
 [update]
 [update.curseforge]
-file-id = 3125528
+file-id = 3167040
 project-id = 409480
 release-channel = "beta"
